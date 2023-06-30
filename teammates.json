@@ -1,0 +1,75 @@
+{
+  "teamname": "Hybrid Engineers",
+  "name": "ARTryOnProject",
+  "version": "2020.3.48f1",
+  "description": "Unity-based AR try-on project",
+  "unity": {
+    "version": "2020.3.48f1",
+    "packages": [
+      {
+        "name": "ARFoundation",
+        "version": "4.1.13"
+      },
+      {
+        "name": "ARSubsystems",
+        "version": "4.1.13"
+      },
+      {
+        "name": "ARCore XR Plugin",
+        "version": "4.1.13"
+      },
+      {
+        "name": "ARKit Face Tracking",
+        "version": "4.1.13"
+      },
+      {
+        "name": "ARKit XR Plugin",
+        "version": "4.1.13"
+      }
+    ]
+  },
+  "author": "Aniket Apraj",
+  "teamMembers": [
+    {
+      "name": "Aniket Apraj",
+      "role": "Lead"
+    },
+    {
+      "name": "Shivam Devhare",
+      "role": "Hardwareer"
+    },
+    {
+      "name": "Sahil Bhosale",
+      "role": "Coder"
+    },
+    {
+      "name": "Ganesh Khatravath",
+      "role": "Coordinator"
+    },
+    {
+      "name": "Anushka Chauhan",
+      "role": "Coder"
+    },
+    {
+      "name": "Srushti Borikar",
+      "role": "Coder"
+    },
+    {
+      "name": "Leticia Jacob",
+      "role": "Hardwareer"
+    },
+    {
+      "name": "Yashashvi Devadiga",
+      "role": "Coder"
+    },
+    {
+      "name": "Gauri Mapgaokar",
+      "role": "Designer"
+    },
+    {
+      "name": "Veena Malvi",
+      "role": "Hardwareer"
+    }
+  ],
+  "license": "Undefined"
+}
